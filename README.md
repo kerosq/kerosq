@@ -31,15 +31,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Golang
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/postgresql.svg" width="48" height="48" alt="PostgresQL" />
       </a>
-      <br>Jsonnet
+      <br>PostgresQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -117,7 +117,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./img/prometheus.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
     </td>
